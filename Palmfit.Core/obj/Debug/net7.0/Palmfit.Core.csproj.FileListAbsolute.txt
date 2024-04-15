@@ -1,0 +1,16 @@
+C:\Users\Decagon Laptop\Documents\PalmfitProject\PalmfitComplete\live-project-sq015-net-palmfit\Palmfit\Palmfit.Core\bin\Debug\net7.0\Palmfit.Core.deps.json
+C:\Users\Decagon Laptop\Documents\PalmfitProject\PalmfitComplete\live-project-sq015-net-palmfit\Palmfit\Palmfit.Core\bin\Debug\net7.0\Palmfit.Core.dll
+C:\Users\Decagon Laptop\Documents\PalmfitProject\PalmfitComplete\live-project-sq015-net-palmfit\Palmfit\Palmfit.Core\bin\Debug\net7.0\Palmfit.Core.pdb
+C:\Users\Decagon Laptop\Documents\PalmfitProject\PalmfitComplete\live-project-sq015-net-palmfit\Palmfit\Palmfit.Core\bin\Debug\net7.0\Palmfit.Data.dll
+C:\Users\Decagon Laptop\Documents\PalmfitProject\PalmfitComplete\live-project-sq015-net-palmfit\Palmfit\Palmfit.Core\bin\Debug\net7.0\Palmfit.Data.pdb
+C:\Users\Decagon Laptop\Documents\PalmfitProject\PalmfitComplete\live-project-sq015-net-palmfit\Palmfit\Palmfit.Core\obj\Debug\net7.0\Palmfit.Core.csproj.AssemblyReference.cache
+C:\Users\Decagon Laptop\Documents\PalmfitProject\PalmfitComplete\live-project-sq015-net-palmfit\Palmfit\Palmfit.Core\obj\Debug\net7.0\Palmfit.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon Laptop\Documents\PalmfitProject\PalmfitComplete\live-project-sq015-net-palmfit\Palmfit\Palmfit.Core\obj\Debug\net7.0\Palmfit.Core.AssemblyInfoInputs.cache
+C:\Users\Decagon Laptop\Documents\PalmfitProject\PalmfitComplete\live-project-sq015-net-palmfit\Palmfit\Palmfit.Core\obj\Debug\net7.0\Palmfit.Core.AssemblyInfo.cs
+C:\Users\Decagon Laptop\Documents\PalmfitProject\PalmfitComplete\live-project-sq015-net-palmfit\Palmfit\Palmfit.Core\obj\Debug\net7.0\Palmfit.Core.csproj.CoreCompileInputs.cache
+C:\Users\Decagon Laptop\Documents\PalmfitProject\PalmfitComplete\live-project-sq015-net-palmfit\Palmfit\Palmfit.Core\obj\Debug\net7.0\Palmfit.Core.csproj.CopyComplete
+C:\Users\Decagon Laptop\Documents\PalmfitProject\PalmfitComplete\live-project-sq015-net-palmfit\Palmfit\Palmfit.Core\obj\Debug\net7.0\Palmfit.Core.dll
+C:\Users\Decagon Laptop\Documents\PalmfitProject\PalmfitComplete\live-project-sq015-net-palmfit\Palmfit\Palmfit.Core\obj\Debug\net7.0\refint\Palmfit.Core.dll
+C:\Users\Decagon Laptop\Documents\PalmfitProject\PalmfitComplete\live-project-sq015-net-palmfit\Palmfit\Palmfit.Core\obj\Debug\net7.0\Palmfit.Core.pdb
+C:\Users\Decagon Laptop\Documents\PalmfitProject\PalmfitComplete\live-project-sq015-net-palmfit\Palmfit\Palmfit.Core\obj\Debug\net7.0\ref\Palmfit.Core.dll
+C:\Users\Decagon Laptop\Documents\PalmfitProject\PalmfitComplete\live-project-sq015-net-palmfit\Palmfit\Palmfit.Core\obj\Debug\net7.0\Palmfit.Core.sourcelink.json
